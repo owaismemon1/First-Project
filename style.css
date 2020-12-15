@@ -1,0 +1,24 @@
+h1{
+    color: aqua;
+    font-size: 550%;
+}
+h1,p{
+    font-style: oblique;
+    font-size: medium;
+    color: powderblue;
+}
+li a {
+    font-style: oblique;
+    color: sandybrown;
+}
+li>a{
+    color: seagreen;
+    font-weight: bold;
+}
+p i{
+    color: slateblue;
+}
+.heading1 {
+    font-family: fantasy;
+    font-weight: bold;
+}
